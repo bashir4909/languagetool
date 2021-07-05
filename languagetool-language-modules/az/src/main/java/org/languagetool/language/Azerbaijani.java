@@ -44,7 +44,7 @@ public class Azerbaijani extends Language {
 
   @Override
   public String[] getCountries() {
-    return new String[]{"PL"};
+    return new String[]{"AZ"};
   }
 
   @Override
