@@ -22,6 +22,7 @@ import org.jetbrains.annotations.NotNull;
 import org.jetbrains.annotations.Nullable;
 import org.languagetool.*;
 import org.languagetool.rules.*;
+import org.languagetool.rules.spelling.hunspell.HunspellRule;
 import org.languagetool.synthesis.Synthesizer;
 import org.languagetool.tagging.Tagger;
 import org.languagetool.tagging.disambiguation.Disambiguator;
@@ -62,6 +63,7 @@ public class Azerbaijani extends Language {
     return Arrays.asList(
       new CommaWhitespaceRule(messages),
       new UppercaseSentenceStartRule(messages, this),
+      new HunspellRule(messages,this, userConfig),
       new WordRepeatRule(messages, this),
       new MultipleWhitespaceRule(messages, this),
       new SentenceWhitespaceRule(messages)
