@@ -428,6 +428,8 @@ bem-quista	bem-querer	VMP00SF
 bem-quistas	bem-querer	VMP00PF
 bem-quisto	bem-querer	VMP00SM
 bem-quistos	bem-querer	VMP00PM
+benefe	benefe	NCFS000
+benefes	benefe	NCFP000
 beneficamente	benéfico	RG
 benta	benzer	VMP00SF
 bentas	benzer	VMP00PF
@@ -608,6 +610,7 @@ cegantes	cegante	AQ0CP0
 certames	certame	NCMP000
 chacra	chacra	NCMS000
 chacras	chacra	NCMP000
+chairman	chairman	NCMS000
 chanceler	chanceler	NCCS000
 chanceleres	chanceler	NCCP000
 charlatães	charlatão	AQ0MP0
@@ -853,6 +856,8 @@ corpuscular	corpuscular	AQ0CS0
 corregedora	corregedor	NCFS000
 corregedoras	corregedor	NCFP000
 corréu	corréu	NCMS000
+corrigenda	corrigenda	NCFS000
+corrigendas	corrigenda	NCFP000
 corroboração	corroboração	NCFS000
 corroborações	corroboração	NCFP000
 cos	cos	NCMS000
@@ -1713,6 +1718,10 @@ heroica	heroico	AQ0FS0
 heroicas	heroico	AQ0FP0
 heroico	heroico	AQ0MS0
 heroicos	heroico	AQ0MP0
+herpético	herpético	AQ0MS0
+herpético	herpético	NCMS000
+herpéticos	herpético	AQ0MP0
+herpéticos	herpético	NCMP000
 heterogénica	heterogénico	AQ0FS0
 heterogénicas	heterogénico	AQ0FP0
 heterogénico	heterogénico	AQ0MS0
@@ -2118,6 +2127,8 @@ machadinha	machada	NCFS000
 mações	mação	NCMP000
 maconha	maconha	NCFS000
 maconhas	maconha	NCFP000
+magala	magala	NCMS000
+magalas	magala	NCMP000
 magnetos	magneto	NCMP000
 mais	mais	NCMS000
 majorar	majorar	VMN0000
@@ -2131,6 +2142,10 @@ malgasta	malgastar	VMP00SF
 malgastas	malgastar	VMP00PF
 malgasto	malgastar	VMP00SM
 malgastos	malgastar	VMP00PM
+malgaxe	malgaxe	AQ0CS0
+malgaxe	malgaxe	NCCS000
+malgaxes	malgaxe	AQ0CP0
+malgaxes	malgaxe	NCCP000
 malgrado	malgrado	NCMS000
 malgrado	malgrado	SPS00
 maliana	maliano	NCFS000
@@ -2186,6 +2201,8 @@ market	market	NCMS000
 marketeer	marketeer	AQ0CS0
 marketeers	marketeer	NCCS000
 markets	market	NCMP000
+marotice	marotice	NCFS000
+marotices	marotice	NCFP000
 marrancho	marrancho	NCMS000
 marranchos	marrancho	NCMP000
 marrequinha	marrequinha	NCFS000
@@ -2209,6 +2226,7 @@ menos	menos	NCMS000
 mentalização	mentalização	NCFS000
 mentideiro	mentideiro	NCMS000
 mentideiros	mentideiro	NCMP000
+mento	mento	NCMS000
 merdice	merdice	NCFS000
 merdices	merdice	NCFP000
 merdilheiro	merdilheiro	NCMS000
@@ -2277,6 +2295,14 @@ moldavo	moldavo	AQ0MS0
 moldavo	moldavo	NCMS000
 moldavos	moldavo	AQ0MP0
 moldavos	moldavo	NCMP000
+monegasca	monegasco	AQ0FS0
+monegasca	monegasco	NCFS000
+monegascas	monegasco	AQ0FP0
+monegascas	monegasco	NCFP000
+monegasco	monegasco	AQ0MS0
+monegasco	monegasco	NCMS000
+monegascos	monegasco	AQ0MP0
+monegascos	monegasco	NCMP000
 monitorada	monitorar	VMP00SF
 monitoradas	monitorar	VMP00PF
 monitorado	monitorado	NCMS000
@@ -2749,10 +2775,14 @@ proveem	prover	VMIP3P0
 psicoemocionais	psicoemocional	AQ0CP0
 psicoemocional	psicoemocional	AQ0CS0
 psicoterapêutico	psicoterapêutico	AQ0MS0
+pudibundo	pudibundo	AQ0MS0
+pudibundos	pudibundo	AQ0MP0
 púdico	púdico	AQ0MS0
 púdicos	púdico	AQ0MP0
 pulôver	pulôver	NCMS000
 pulôveres	pulôver	NCMP000
+pundonor	pundonor	NCMS000
+pundonores	pundonor	NCMP000
 pungência	pungência	NCFS000
 pungências	pungência	NCFP000
 puta	puta	NCFS000
@@ -4195,6 +4225,7 @@ Lubuntu	Lubuntu	NPMS000
 Mac	Mac	NPMS000
 macOS	macOS	NPMS000
 MailChimp	MailChimp	NPMS000
+MailWasher	MailWasher	NPMS000
 mainframe	mainframe	NCMS000
 mainframes	mainframe	NCMP000
 Mathematica	Mathematica	NPMS000

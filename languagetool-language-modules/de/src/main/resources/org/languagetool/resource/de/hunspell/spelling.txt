@@ -6737,6 +6737,7 @@ Social-Media-Kanäle/N
 Social-Media-Marketing/S
 Social-Media-Plattform
 Social-Media-Plattformen
+Social-Media-Team/S
 Social-Media-Redaktion
 Social-Media-Redaktionen
 Sockelfliese/N
@@ -27856,6 +27857,8 @@ Leseransprache/N
 Leserinnenansprache/N
 Achtsamkeitsregel/N
 Ann-Katrin/S #name
+Ann-Kathrin/S #name
+Ann Kathrin/S #name
 Aphasiker/NS
 Aphasikerin
 Aphasikerinnen
@@ -35537,3 +35540,274 @@ Wohlfühlmarktes
 wortunabhängig/A
 Zerspanungsunternehmen/S
 ZP #abk
+aktivitätsbasiert/A
+Barbarossakopf/S
+Barbarossakopfes
+Baufritz #name
+bekommen/A
+Besammlung
+Besammlungen
+Damtiere/N
+Enzephalisationsquotient
+Enzephalisationsquotienten
+Feldatal/S #name
+Filialtätigkeiten
+Foodcenter #eng
+Gitterstabmattenzäune/N
+Gitterstabmattenzaun/S
+Hackschnitzelheizung
+Hackschnitzelheizungen
+Hernienoperation
+Hernienoperationen
+Hodenhagen/S #name
+Hospizkultur
+Insektengesumme/S
+Intensivkrankenpflege
+Konvolution
+Konvolutionen
+Kritzelstufe
+Launsbach/S #name
+Logistikeinrichtung
+Logistikeinrichtungen
+Luis Trenker/S #name
+Mespelbrunn/S #name
+Portmeirion/S #name
+Positionierungsfehler/NS
+Ratenzahlungsmöglichkeit
+Ratenzahlungsmöglichkeiten
+Rezo/S #name
+Ruswil/S #name
+Schlängellinie/N
+Sedierungsprotokoll/S
+Sedierungsprotokolle/N
+Sharan #name
+Standascher/NS
+Stiltür
+Stiltüren
+Streuungsdiagramm/S
+Streuungsdiagramme/N
+Teigtemperatur
+Teigtemperaturen
+Teuerungszuschläge/N
+Teuerungszuschlag/S
+unabänderbar/A
+Vöhl #name
+Verstehenskompetenz
+Vollständigkeitsgrad/S
+Vollständigkeitsgrade/NS
+Wakeboardszene
+Wassergewöhnungskurs
+Wassergewöhnungskurse/NS
+Winnyzja/S #name
+Béla/S #name
+Réthy/S #name
+Greg/S #name
+Long COVID
+Post-Covid-19
+Post-COVID-Syndrom
+Long Covid
+OTC-Handel/S
+Over-the-Counter-Handel/S
+Over-the-Counter-Market/S
+OTC #abk
+OTC-Option
+OTC-Optionen
+OTC-Geschäft/ES
+laufzeitmäßig/A
+Kontrahentenrisiko/S
+Aufrechnungsvereinbarung
+Aufrechnungsvereinbarungen
+OTC-Derivate/N
+börsengebunden/A
+OTC-Plattform
+OTC-Plattformen
+Forward-Kontrakt/S
+Forward-Kontrakte/NS
+Erfüllungspflicht
+Erfüllungspflichten
+tagesgültig/A
+Trailing-Stop-Order/S #eng
+Stop-Market-Order/S #eng
+Trailing-Stop-Loss-Order/S #eng
+Stop-Buy-Limit/S #eng
+Kassa-Auktion
+Kassa-Auktionen
+Helmholtz-Zentrum/S
+tricky #ugs
+Hostinganbieter/SN
+Hostingpaket/S
+Hostingpakete/SN
+Homepagebaukasten/S
+Homepagebaukästen
+Spider/SN
+Host Europe/S #name
+htaccess
+mobilfähig/A
+Impressumsgenerator/S
+farbarm/A
+Double-Opt-in-Verfahren
+Keywordkombination
+Keywordkombinationen
+Blogartikel/NS
+Affiliate-Link/S
+Affiliate/S #eng
+Affiliate-Netzwerk/S
+Affiliate-Netzwerke/SN
+Affiliate-Link/S
+Affiliate-Marketing/S
+Aufzählungsliste/N
+Crawler/SN
+Suchmaschinen-Crawler/SN
+Blogbetreiber/SN
+Durchsatzratenbegrenzung
+Durchsatzratenbegrenzungen
+Durchsatzbegrenzung
+Durchsatzbegrenzungen
+hehe #ugs
+Betahaus #name
+Lamba-Variante #name
+Aline/S #name
+Sortenmerkmal/S
+Sortenmerkmale/N
+Mobility Management Entity #eng
+MME/S #abk
+ampelografisch/A
+Ampelografie
+Unit Economics #eng
+Flywheel/S #eng
+All-in-one-Plattform
+Obi-Wan/S #name
+abgekordelt/A
+Absinkeffekt/S
+Absinkeffekte/NS
+Allostase
+beauftragungsrelevant/A
+befette/N
+befettest
+befettet/A
+Borkenkäfersituation
+Bradykardie
+Brauneberg/S #name
+Breiholz #name
+Campusbibliothek
+Campusbibliotheken
+computational/A
+diamantgesägt/A
+Dipperz #name
+Douglasienholz
+Douglasienholzes
+Einbringöffnung
+Einbringöffnungen
+einfärbbar/A
+einfaktoriell/A
+Eventformat/S
+Eventformate/NS
+Extraktstoff/S
+Extraktstoffe/NS
+Ezelsdorf/S #name
+Fassadenpfosten/S
+Fastfoodtrend/S
+Ganzjahresverträge/N
+Ganzjahresvertrag/S
+Gemischregulierschraube/N
+genossenschaftseigene
+genossenschaftseigenem
+genossenschaftseigenen
+genossenschaftseigener
+genossenschaftseigenes
+Grevesmühlener
+Halloweenlaterne/N
+hepatozellulär/A
+hinzufügbar/A
+Identnummer/N
+instandhaltungsrelevant/A
+Intensivpflegebett/S
+Intensivpflegebetten
+Jack-o'-lantern
+Kürbisfeld/S
+Kürbisfelder/N
+Kürbisfeldes
+Kanakin
+Kanakinnen
+Kifferbekanntschaft
+Kifferbekanntschaften
+Klixbüll/S #name
+kommunikabel
+kommunikable
+kommunikablem
+kommunikablen
+kommunikabler
+kommunikables
+Kraichtal/S
+Kraichtaler
+Lüfterradabdeckung
+Lüfterradabdeckungen
+Lower-Carb #eng
+Maßnahmencontrolling/S
+MCT #abk #eng
+Medistar #name
+Megastore/S #eng
+Motivationstraining/S
+Multiroombetrieb/S
+Multispektralkamera/S
+Nasstasche/N
+Normbrüche/N
+Normbruch/S
+Oberaichen/S
+Oberschöna/S #name
+Pinienstümpfe/N
+Pinienstumpf/S
+Pleochroismus
+Polygongitter/NS
+Präferenzkalkulation
+Prospektständer/NS
+Pull-down-Menü/S
+Negativtestat/S
+Negativtestate/N
+Ramengericht/S
+Ramengerichte/NS
+Refinement/S #eng
+Regionsumgestaltung
+Richling/S #name
+Rosskamp/S #name
+Saucenbasen
+Saucenbasis
+Smartphonezeit
+Source #eng
+Sprecherteam/S
+Spukfigur
+Spukfiguren
+stimmungsschwankend/A #scheint häufig
+Tarierung
+Teamausflüge/N
+Teamausflug/S
+teamweit/A
+Tiefendarstellung
+Urgroßnichte/N
+Ururgroßneffe/N
+Ururgroßnichte/N
+Urururenkel/NS
+Urururenkelin
+Urururenkelinnen
+Urururgroßneffe/N
+Urururgroßnichte/N
+Ventilatordrehzahl
+Ventilatordrehzahlen
+Verdingung
+Vorhersagefehler/NS
+Wangenhalter/NS
+Zimmereien
+Zuspielmöglichkeit
+Zuspielmöglichkeiten
+Herfried/S #name
+Christianeum/S #name
+JGA/S #abk
+Regenerierungsplan/S
+Regenerierungspläne/N
+Squadra Azzurra #name
+Almuth/S #name
+FFC #abk
+Lomitz #name
+Gartow/S #name
+Reality-Star/S
+Cash-and-carry-Klausel/N

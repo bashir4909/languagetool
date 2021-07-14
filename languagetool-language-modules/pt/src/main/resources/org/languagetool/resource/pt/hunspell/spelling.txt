@@ -580,6 +580,8 @@ Begonha
 beisebol
 bejeca
 bejecas
+benefe
+benefes
 Bengo
 Bentley
 bentónica
@@ -1010,6 +1012,7 @@ CFOP
 chacra
 chacras
 Chaffeur Privé
+chairman
 Champalimaud
 champôs
 chango-da-montanha
@@ -1249,6 +1252,8 @@ coronavírus
 corporativamente
 córrego
 córregos
+corrigenda
+corrigendas
 corroboração
 corroborações
 corrupio
@@ -2617,6 +2622,8 @@ heptacampeão
 heptacampeões
 herniação
 herniações
+herpético
+herpéticos
 herpetóloga
 herpetólogas
 herpetologia
@@ -3360,6 +3367,8 @@ macronutriente
 macronutrientes
 madrassa
 madrassas
+magala
+magalas
 magnetómetro
 magnetómetros
 magnetosfera
@@ -3410,6 +3419,8 @@ maquilhador
 maquilhadora
 maquilhadoras
 maquilhadores
+malgaxe
+malgaxes
 marada
 maradas
 marado
@@ -3427,6 +3438,8 @@ mariscador
 mariscadores
 market
 markets
+marotice
+marotices
 marrancho
 marranchos
 Marraquexe
@@ -3506,6 +3519,7 @@ menorá
 menorás
 mentideiro
 mentideiros
+mento
 mentolada
 mentoladas
 mentolado
@@ -3694,6 +3708,10 @@ Mocuba
 modicum
 moncorvense
 moncorvenses
+monegasca
+monegascas
+monegasco
+monegascos
 Monero
 monitora
 monitoras
@@ -4639,6 +4657,8 @@ psilocibina
 psiquicamente
 psoríase
 PSV Eindhoven
+pudibundo
+pudibundos
 púdico
 púdicos
 pufe
@@ -4648,6 +4668,8 @@ pulôver
 pulôveres
 pulsante
 pulsantes
+pundonor
+pundonores
 pungência
 pungências
 punheta
@@ -10622,6 +10644,7 @@ MacBook
 macOS
 magic number
 MailChimp
+MailWasher
 Maps
 Mathematica
 Microsoft

@@ -318,6 +318,7 @@ public class English extends Language implements AutoCloseable {
       case "ABBREVIATION_PUNCTUATION":  return 2;
       case "FEDEX":                     return 2;   // higher prio than many verb rules (e.g. MD_BASEFORM)
       case "LIFE_COMPOUNDS":            return 1;
+      case "DRIVE_THROUGH_HYPHEN":      return 1;   // higher prio than agreement rules
       case "CAUSE_COURSE":              return 1;   // higher prio than CAUSE_BECAUSE
       case "AN_AND":                    return 1;   // higher prio than A_MY and DT_PRP
       case "HER_S":                     return 1;   // higher prio than THEIR_S
@@ -405,6 +406,7 @@ public class English extends Language implements AutoCloseable {
       case "THERE_THEIR":               return 1;   // prefer over GO_TO_HOME
       case "IT_IS_DEPENDING_ON":        return 1;   // prefer over PROGRESSIVE_VERBS
       case "IRREGARDLESS":              return 1;   // prefer over spell checker
+      case "WANNA":                     return 1;   // prefer over spell checker
       case "LOOK_FORWARD_TO":           return 1;   // prefer over LOOK_FORWARD_NOT_FOLLOWED_BY_TO
       case "LOOK_SLIKE":                return 1;   // higher prio than prem:SINGULAR_NOUN_VERB_AGREEMENT
       case "ANYWAYS":                   return -1;   // higher prio than spell checker

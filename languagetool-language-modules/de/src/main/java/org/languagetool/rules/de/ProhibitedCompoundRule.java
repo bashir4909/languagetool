@@ -709,7 +709,13 @@ public class ProhibitedCompoundRule extends Rule {
           "Meisterchor",
           "Bienenfarm",
           "Windknoten",
-          "Feuchtmann" //name
+          "Videoarten", // vs Videokarten
+          "Textartikel", // vs Textpartikel
+          "Textartikels", // vs Textpartikels
+          "Textartikeln", // vs Textpartikeln
+          "Feuchtmann", //name
+          "Fachlektüre",
+          "Fachlektüren"
   ));
 
   // have per-class static list of these and reference that in instance
